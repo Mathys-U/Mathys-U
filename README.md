@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mon Profil :
 
-<!--
-**Mathys-U/Mathys-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Futur élève en 1re année de cycle ingénieur à l'ISEN Brest**
+*Actuellement en 2e année de cycle préparatoire intégrée Biologie et Santé à l'ISEN Brest*
 
-Here are some ideas to get you started:
+**Je suis à la recherche d'une alternance pour 3 ans et commençant en septembre 2026**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📧 Me contacter
+- [LinkedIn](https://www.linkedin.com/in/mathys-u-1747763a0/)
+- [Mail](ulvoasmathys@gmail.com)
+
+### 🛠 Compétences Tech
+- **Langages :** Python (bases : structures de données, gestion de fichiers, matplotlib)
+- **Outils :** VS Code, GitHub, ImageJ, Microsoft Excel, WOrd, Powerpoint
+
+### 🚀 Projets marquants
+- **Jeu du labyrinthe en ligne de commande :** Jeu d'aventure textuel en Python avec gestion de fichiers et logique métier.
+- **Simulateur physique simple interactif :** interface graphique (matplotlib), gravité et collisions
+
+---
+*“Passionné par l'intersection entre l'ingénierie et la médecine.”*
