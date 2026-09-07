@@ -1,10 +1,6 @@
 # Mon Profil :
 
-**Futur élève en 1re année de cycle ingénieur à l'ISEN Brest**
-
-*Actuellement en 2e année de classe préparatoire intégrée - Biologie et Santé à l'ISEN Brest*
-
-**Je suis à la recherche d'une alternance d'une durée de 3 ans et commençant en septembre 2026.**
+**Actuellement élève en 1re année de cycle ingénieur à l'ISEN Brest**
 
 ### Me contacter
 - [LinkedIn](https://www.linkedin.com/in/mathys-u-1747763a0/)
